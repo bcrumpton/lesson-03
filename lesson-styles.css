@@ -23,7 +23,7 @@ img {
 
 .section {
   padding: 2rem;
-  background: #88c7ba
+  background: #000;
 }
 
 .container {
@@ -54,8 +54,14 @@ img {
 .profile__username {
   text-align: center;
   font-size: 1.5rem;
+  color: #dddddd;
 }
 
 .prompt {
+  color: white;
   text-align: center;
+}
+
+#logo {
+  width: 8rem;
 }
